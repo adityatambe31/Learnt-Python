@@ -1,0 +1,5 @@
+def my_function(**kid):
+    print("His Last name is " +kid["lname"])
+    print("His First name is " +kid["fname"])
+
+my_function(fname = "Vincenzo" , lname = "Cassano")

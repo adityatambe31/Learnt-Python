@@ -1,0 +1,9 @@
+for x in range(7):
+    print(x)
+
+
+for y in range(2,30,3):
+    print(y)
+
+# printing from 2 to 30 by the increment by 3
+# 2...5..8...
