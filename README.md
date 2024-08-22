@@ -30,23 +30,23 @@ To start working with the code in this repository:
    ```
 
 ### 💡 Features
-<li>Fundamental to Advanced Topics: Covers a range of Python concepts from basics to advanced. 📚</li>
-<li>Practical Exercises: Includes coding challenges and examples to practice. 💡</li>
-<li>Sample Projects: Real-world applications to demonstrate Python capabilities. 🏗️</li>
+   <li>Fundamental to Advanced Topics: Covers a range of Python concepts from basics to advanced. 📚</li>
+   <li>Practical Exercises: Includes coding challenges and examples to practice. 💡</li>
+   <li>Sample Projects: Real-world applications to demonstrate Python capabilities. 🏗️</li>
 
 ### 📝 Examples
 Here are some examples included in this repository:
 
-<li>HelloWorld.py: A basic script to print "Hello, World!" to the console. 🌍</li>
-<li>DataAnalyzer.py: A script for basic data analysis and visualization. 📊</li>
+   <li>HelloWorld.py: A basic script to print "Hello, World!" to the console. 🌍</li>
+   <li>DataAnalyzer.py: A script for basic data analysis and visualization. 📊</li>
 
 ### 🛠️ Projects
-<li>Web Scraper: A tool for scraping data from websites. 🕷️</li>
-<li>Simple Chatbot: A basic chatbot that interacts with users. 🤖</li>
+   <li>Web Scraper: A tool for scraping data from websites. 🕷️</li>
+   <li>Simple Chatbot: A basic chatbot that interacts with users. 🤖</li>
 
 ### 🔗 Resources
-<li>Python Documentation</li>
-<li>Learn Python</li>
-<li>Python Challenges</li>
+   <li>Python Documentation</li>
+   <li>Learn Python</li>
+   <li>Python Challenges</li>
 
 Happy coding! 🚀
