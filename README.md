@@ -22,7 +22,11 @@ To start working with the code in this repository:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/adityatambe31/Learnt-Python.git
+   git clone https://github.com/adityatambe31/Learnt-Java.git
+    ```
+2. **Navigate into the project directory:**
+   ```bash
+   cd Learnt-Python
    ```
 
 ### 💡 Features
